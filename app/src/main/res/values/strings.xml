@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeTrack - Screen Off Application</string>
+
+    <string name="hello_world">POC to Screen Off - TimeTrack</string>
+    <string name="button_text">Switch Off Screen</string>
+    <string name="action_settings">Settings</string>
+</resources>
